@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/message")
     public String getMessage(){
-        return "i am bikash ";
+        return "wel come kubernate through jenking ";
     }
 }
